@@ -23,6 +23,11 @@ Portfolio Performance nutzt [Eclipse SWT](https://www.eclipse.org/swt/) und dami
 
 Die notwendigen Abhängigkeiten lassen sich unter Ubuntu 18.04 mit `sudo apt install libwebkitgtk-3.0-0 default-jre` installieren.
 
+Bemerkung:
+Jetzt sollte man die neueste Version von Java installieren, siehe
+
+https://computingforgeeks.com/install-oracle-java-openjdk-on-debian-linux/
+
 Das Programm lässt sich mit folgendem Skript installieren:
 ```
 #!/bin/bash
